@@ -1,2 +1,2 @@
-# ARXHub_TPLX
+# ARXHub 
 ARXHub for Tapping Legends X
